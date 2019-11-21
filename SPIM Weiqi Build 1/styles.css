@@ -1,0 +1,106 @@
+
+.encapsulated  {background-color: #D9E1F9;
+	font-family:'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    text-align: center;
+    margin: 5px;
+    border: 3px;
+    border-style: solid;
+	border-color: RoyalBlue;
+    padding: 10px;
+    line-height:20px;
+    cursor:default;
+    box-shadow: 5px 5px 5px #888888;
+    -webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+    }
+
+.lecture_table  {
+	font-family:'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    text-align: center;
+    margin: 5px;
+    border: 3px;
+    border-style: solid;
+	border-color: Teal;
+    padding: 10px;
+    line-height:20px;
+    cursor:default;
+    box-shadow: 5px 5px 5px #888888;
+    -webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+    }
+
+.button {background-color: Aquamarine;
+	font-family:'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    text-align: center;
+    margin: 5px;
+    border: 3px;
+    border-style: solid;
+	border-color: Teal;
+    padding: 10px;
+    float:left;
+    cursor:pointer;
+    border-radius:20px;
+    height:30px;
+    line-height:30px;
+    box-shadow: 5px 5px 5px #888888;
+    -webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	}
+
+.button:hover, .button:active {
+    background-color: Teal;
+    color: Aquamarine;
+}
+
+.login_box {
+	font-family:'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+	}
+
+.navigator {background-color: #D9E1F9;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0px;
+    border-radius: 10px;
+    padding: 0px;
+    float:left;
+    cursor:pointer;
+    height:30px;
+    line-height:30px;
+    -webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	}
+
+.navigator:hover, .navigator:active {
+    background-color: RoyalBlue;
+    color: #D9E1F9;
+}
+
+.goban {
+	border:3px solid black;
+	margin:5px;
+	margin-bottom:10px;
+	float:left;
+	box-shadow: 5px 5px 5px #888888;
+    -webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	}
